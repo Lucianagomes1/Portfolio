@@ -68,8 +68,7 @@ body{
 }
 
 .light .botaomodo button{
-    right: 0;
-    left: initial;
+    animation: mudanca 0.4s forwards;
 }
 
 .botaomodo button{
@@ -83,7 +82,13 @@ body{
     z-index: 1;
     left: 0;
     transform: translateY(-50%);
+    animation: mudancaon 0.4s;
     
+}
+
+.botaomodo button:hover{
+outline: 8px solid var(--corfundo)
+
 }
 
 .botaomodo span{
@@ -169,4 +174,22 @@ footer{
         --bgurl: url(./assets/bg-desktop-light.jpg);
     }
 
+}
+
+@keyframes mudanca{
+    from{
+        left: 0;
+    }
+    to{
+        left: 50%;
+    }
+}
+
+@keyframes mudancaon{
+    from{
+        left:50%;
+    }
+    to{
+        left:0;
+    }
 }
