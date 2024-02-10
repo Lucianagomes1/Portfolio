@@ -1,8 +1,8 @@
 <h1>Interface do meu Portfolio </h1>
 
-<h3>Bem-vindo ao meu repositório! Este é um projeto simples desenvolvido com HTML, CSS e JavaScript para mostrar minhas habilidades e projetos. Além disso, possui a funcionalidade de alternar entre os modos claro e escuro para uma melhor experiência do usuário.</h3>
+Bem-vindo ao meu repositório! Este é um projeto simples desenvolvido com HTML, CSS e JavaScript para mostrar minhas habilidades e projetos. Além disso, possui a funcionalidade de alternar entre os modos claro e escuro para uma melhor experiência do usuário.
 
-<img src="assets/Design sem nome (3).png" alt="">
+<img src="assets/Design sem nome (4).png" alt="">
 
 <h3>Como Usar</h3>
 Clone o repositório:
