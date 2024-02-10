@@ -2,7 +2,7 @@
 
 <h2>Bem-vindo ao meu repositório! Este é um projeto simples desenvolvido com HTML, CSS e JavaScript para mostrar minhas habilidades e projetos. Além disso, possui a funcionalidade de alternar entre os modos claro e escuro para uma melhor experiência do usuário.</h2>
 
-    <img src="./Design sem nome (3).png" alt="">
+    <img src="./Design sem nome (4).png" alt="">
     
     <h3>Como Usar</h3>
     Clone o repositório:
