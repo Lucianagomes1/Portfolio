@@ -16,7 +16,7 @@ git clone
 Abra o arquivo index.html no seu navegador web.
 <br>
 
-Navegue pelas seções para conhecer mais sobre mim, meus projetos e habilidades.
+Em breve navegue pelas seções para conhecer mais sobre mim, meus projetos e habilidades.
 <br>
 Experimente a funcionalidade de alternar entre os modos claro e escuro usando o botão correspondente.
 <br>
